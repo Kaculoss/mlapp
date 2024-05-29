@@ -1,0 +1,12 @@
+# Virtual environment directory
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+
+# Large dataset files
+survey_results_public.csv
+
